@@ -51,7 +51,7 @@ class _AddRecordScreenState extends State<AddRecordScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Add Health Record'),
-        backgroundColor: Colors.teal, // A modern, clean app bar color
+        backgroundColor: Colors.teal, 
         elevation: 5.0,
       ),
       body: Padding(
